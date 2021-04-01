@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653912278517",
+    "project_id": "pusl2003-team-2",
+    "storage_bucket": "pusl2003-team-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653912278517:android:aea9360c3f20eb9db74cbc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653912278517-hlsab4mn2k3hdj7a8uj8hevsgpl3747d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraKv0O3x6x9BSUfDrTea7FTaf4DNwums"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653912278517-hlsab4mn2k3hdj7a8uj8hevsgpl3747d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
